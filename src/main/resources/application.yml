@@ -1,0 +1,10 @@
+spring:
+  rabbitmq:
+    host: localhost
+    post: 5672
+    username: guest
+    password: guest
+
+features:
+  active:
+    sender: old
